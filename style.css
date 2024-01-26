@@ -1,0 +1,60 @@
+
+
+body
+{
+    background-color: #f3e0e0;
+    margin: 0;
+    padding: 0;
+
+}
+.container
+{
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   height: 100vh;
+   border: solid white 20px;
+}
+.pizza-logo
+{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.pizza
+{
+    position: relative;
+    right: 135px;
+}
+.icon-app
+{
+    height: 190px;
+    width: 190px;
+    border: #98D8AA solid 5px;
+    background-color: #EB455F;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25%;
+}
+
+    .pizza-logo{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+    }
+    .pizza
+    {
+        position: relative;
+        left: 155px;
+
+    }
+
+h1
+{
+    font-size: 20px;
+position: relative;
+left:245px ;
+top: 116px;
+
+}
